@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="459e778e-0c7f-4c69-9c05-4ce80bc0769e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessen/H10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessen/H10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,47 +33,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.H6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.H8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.H9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hoofdstuk 5.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hoofdstuk 5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Opdracht H8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Opdracht H9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Yellow Dungeon.executor&quot;: &quot;Run&quot;,
-    &quot;Python.h8.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.les 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.les1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.les2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.H10.executor": "Run",
+    "Python.H6.executor": "Run",
+    "Python.H8.executor": "Run",
+    "Python.H9.executor": "Run",
+    "Python.Hoofdstuk 5.4.executor": "Run",
+    "Python.Hoofdstuk 5.executor": "Run",
+    "Python.Opdracht H8.executor": "Run",
+    "Python.Opdracht H9.executor": "Run",
+    "Python.Yellow Dungeon.executor": "Run",
+    "Python.h8.2.executor": "Run",
+    "Python.les 3.executor": "Run",
+    "Python.les1.executor": "Run",
+    "Python.les2.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;GitIgnore&quot;,
-      &quot;Python&quot;,
-      &quot;TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore",
+      "Python",
+      "TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mrlaa\Documents\Pycharm\Lessen\Lessen" />
@@ -160,6 +163,7 @@
       <workItem from="1772268119345" duration="592000" />
       <workItem from="1772272891023" duration="4128000" />
       <workItem from="1772390944629" duration="4957000" />
+      <workItem from="1772626515467" duration="425000" />
     </task>
     <servers />
   </component>
@@ -178,6 +182,7 @@
     <SUITE FILE_PATH="coverage/Lessen$Opdracht_H8.coverage" NAME="Opdracht H8 Coverage Results" MODIFIED="1772392007883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessen" />
     <SUITE FILE_PATH="coverage/Lessen$H6.coverage" NAME="H6 Coverage Results" MODIFIED="1772202923582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessen" />
     <SUITE FILE_PATH="coverage/Lessen$les1.coverage" NAME="les1 Coverage Results" MODIFIED="1772391024593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lessen$H10.coverage" NAME="H10 Coverage Results" MODIFIED="1772626926035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessen" />
     <SUITE FILE_PATH="coverage/Lessen$H9.coverage" NAME="H9 Coverage Results" MODIFIED="1772395843451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessen" />
     <SUITE FILE_PATH="coverage/Lessen$Hoofdstuk_5.coverage" NAME="Hoofdstuk 5 Coverage Results" MODIFIED="1772197386815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessen" />
   </component>
